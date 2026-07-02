@@ -17,7 +17,7 @@
 
 **3. Связь с нами**
 
-Если у вас есть какие-либо вопросы относительно этой политики конфиденциальности, вы можете связаться с нами по электронной почте: nelissss84@gmail.com.
+Если у вас есть какие-либо вопросы относительно этой политики конфиденциальности, вы можете связаться с нами по электронной почте: nelis72@ya.ru.
 
 ---
 
@@ -38,4 +38,4 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 
 **3. Contact Us**
 
-If you have any questions about this Privacy Policy, you can contact us by email: nelissss84@gmail.com.
+If you have any questions about this Privacy Policy, you can contact us by email: nelis72@ya.ru.
