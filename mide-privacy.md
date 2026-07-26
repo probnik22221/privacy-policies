@@ -3,7 +3,7 @@
 ### На русском языке
 
 **Разработчик:** Елисеева Надежда
-**Контактный email:** nelis72@ya.ru
+**Контактный email:** nelissss84@gmail.com
 **Название приложения:** Mide
 **Дата вступления в силу:** 05 сентября 2024 г.
 
@@ -24,7 +24,7 @@
 ### In English
 
 **Developer:** Nadezhda Eliseeva
-**Contact email:** nelis72@ya.ru
+**Contact email:** nelissss84@gmail.com
 **App Name:** Mide
 **Effective Date:** September 05, 2024
 
