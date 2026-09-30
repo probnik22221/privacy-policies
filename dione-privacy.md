@@ -3,7 +3,7 @@
 [Русская версия](dione-privacy-ru.md)
 
 **Effective date:** September 20, 2026  
-**Last updated:** September 29, 2026
+**Last updated:** September 30, 2026
 
 This Privacy Policy explains how information relating to users of the **Dione Tarot** mobile application (the "Application") is processed and protected.
 
@@ -63,16 +63,16 @@ A one-time login code is valid for 10 minutes. An authenticated session is creat
 
 When a user purchases Dione PRO, the following information may be processed:
 
-- the selected subscription plan;
+- the selected access option;
 - the transaction amount and currency;
 - the payment identifier and payment status;
-- for Aptoide purchases, the purchase token, order identifier, subscription product identifier, renewal indicator, and verified expiration time;
+- for Aptoide purchases, the purchase token, order and product identifiers, purchase and consumption states, purchase time, and the resulting access period;
 - the purchase-attempt identifier;
 - the dates on which the transaction was created, paid, applied, and updated;
 - the period of Dione PRO access granted to the user;
 - a technical payment confirmation URL.
 
-The payment provider depends on where the Application was obtained: **Aptoide** processes in-app subscriptions in the Aptoide version, while **YooKassa** processes payments in the RuStore version. Neither the Application nor the Controller's server receives or stores the full card number, card expiration date, or card security code.
+The payment provider depends on where the Application was obtained: **Aptoide** processes one-time purchases that provide Dione PRO access for 1 or 12 months without automatic renewal, while **YooKassa** processes payments in the RuStore version. Neither the Application nor the Controller's server receives or stores the full card number, card expiration date, or card security code.
 
 ### 2.5. Technical information
 
@@ -115,7 +115,7 @@ Users provide information voluntarily. Without an email address, it is not possi
 The Controller may disclose or provide access to the minimum information necessary to the following recipients:
 
 - **YooKassa**, for creating, processing, and confirming payments;
-- **Aptoide**, for offering, processing, restoring, and verifying subscriptions in the Aptoide version of the Application;
+- **Aptoide**, for offering, processing, restoring, and verifying one-time access purchases in the Aptoide version of the Application;
 - the hosting provider, for operation of the server and database;
 - the email service provider, for sending one-time login codes;
 - **Yandex Cloud (Yandex AI Studio)**, to generate a YandexGPT response in “The Oracle of Dione” after the user confirms the transfer;
