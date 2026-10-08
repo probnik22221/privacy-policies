@@ -3,9 +3,11 @@
 [Русская версия](dione-privacy-ru.md)
 
 **Effective date:** September 20, 2026  
-**Last updated:** September 30, 2026
+**Last updated:** October 8, 2026
 
 This Privacy Policy explains how information relating to users of the **Dione Tarot** mobile application (the "Application") is processed and protected.
+
+This Policy covers the Android application **com.dione.tarot.dione_tarot**, including its Aptoide and RuStore versions. The developer and application contact is **Nadezhda Eliseeva (Елисеева Надежда)**. Application website: <https://probnik22221.github.io/privacy-policies/dione/>.
 
 ## 1. Data Controller
 
@@ -82,6 +84,12 @@ The Dione Tarot server logic does not record the user's email address, request c
 
 The Application does not use advertising SDKs and does not access geolocation, contacts, the camera, or the microphone. In the Aptoide version, the Aptoide Billing SDK may process limited device, application, transaction, and SDK diagnostic information needed to provide payments, prevent fraud, and monitor billing reliability under Aptoide's own privacy terms.
 
+### 2.6. Support requests and website
+
+When you contact support by email, the Controller receives your sender address and message, including any attachments you choose to send. This information is used to respond and resolve the reported issue. Do not send passwords, login codes, full payment-card details, or unnecessary personal information.
+
+The Application website is hosted on GitHub Pages. It contains no registration forms, advertising modules, or embedded analytics. GitHub may process technical visitor information under its [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). Visiting the website does not disclose the Application's journal contents or account information to GitHub.
+
 ## 3. Purposes of Processing
 
 Information is processed only for the following purposes:
@@ -94,7 +102,7 @@ Information is processed only for the following purposes:
 - performing obligations to the user;
 - responding to requests and resolving technical errors;
 - complying with legal, accounting, and tax requirements;
-- protecting the security of the Application and server infrastructure.
+- protecting the security of the Application and server infrastructure;
 - providing a personalized response in the Dione PRO feature “The Oracle of Dione” at the user's request and with the user's consent.
 
 Information is not sold, disclosed to advertising networks, or used for marketing messages without the user's separate consent.
@@ -141,7 +149,8 @@ The Controller retains information only for as long as necessary for the stated 
 - an authenticated session remains valid for up to 90 days;
 - the email address and Dione PRO access information are retained while necessary to provide and restore purchased access;
 - payment information is retained for the periods necessary to confirm purchases, resolve disputes, and comply with accounting and tax obligations;
-- technical logs are retained for the period determined by security settings and the hosting provider.
+- support requests are retained while necessary to respond, resolve the issue, and address related disputes;
+- technical logs are retained for the period determined by security settings and the hosting provider;
 - Oracle conversation content is not stored in the Dione Tarot database and is used by the server only while generating a response; Yandex Cloud's technical processing periods are determined by that provider's documents and service settings.
 
 When processing purposes have been fulfilled, information is deleted, anonymized, or restricted unless continued retention is required by law or is necessary to protect the rights of the Controller or the user.
@@ -157,7 +166,7 @@ The Controller applies reasonable legal, organizational, and technical safeguard
 - using unique identifiers to prevent duplicate payment creation;
 - restricting access to the server and database;
 - minimizing information included in error logs;
-- verifying payment status directly with the payment provider.
+- verifying payment status directly with the payment provider;
 - keeping the Yandex AI Studio access key on the server, verifying active Dione PRO on the server, limiting request sizes, and excluding AI conversation content from application error logs.
 
 Despite these safeguards, no method of electronic transmission or storage can guarantee absolute security.
@@ -178,6 +187,12 @@ To exercise these rights, send a request to **n95568332@gmail.com**.
 The request should contain enough information to identify the user and the relevant account, describe the request, and provide the information necessary to verify the identity of the requester. The Controller may request additional information where necessary to prevent unauthorized access to another user's information.
 
 Deletion of a server account does not always result in the immediate deletion of payment records that the Controller is required by law to retain or may retain to resolve disputes and protect legitimate rights.
+
+### How to request deletion
+
+Email **n95568332@gmail.com** with the subject **"Dione Tarot - data deletion"**, preferably from the address used to sign in. Specify whether you want to delete your account, associated information, or a support request. Do not attach an identity document or payment details without a separate justified request. Where necessary, the Controller will explain how to verify account ownership and which information was deleted or must be retained and why.
+
+Signing out or uninstalling the Application does not automatically delete a server account. To remove the local journal, delete entries in the Application or clear the Application's data in Android settings. A data deletion request is not a refund request. Access in the Aptoide version is purchased once and does not renew automatically.
 
 ## 10. Service and Marketing Messages
 

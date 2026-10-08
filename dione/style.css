@@ -1,0 +1,47 @@
+:root { color-scheme: light; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; color: #24272b; background: #fff; line-height: 1.65; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+a { color: #096e72; text-underline-offset: 4px; }
+a:hover { color: #af363d; }
+a:focus-visible { outline: 3px solid #af363d; outline-offset: 5px; }
+.content, .navigation { max-width: 980px; margin: auto; padding: 32px 28px; }
+.navigation { display: flex; justify-content: space-between; align-items: center; gap: 24px; padding-top: 18px; padding-bottom: 18px; }
+.brand { display: flex; align-items: center; gap: 12px; color: #24272b; text-decoration: none; font-weight: 700; font-size: 18px; }
+.brand img { border-radius: 8px; }
+nav { display: flex; flex-wrap: wrap; gap: 18px; font-size: 14px; }
+.artwork { display: block; width: 100%; height: 260px; object-fit: contain; background: #090312; }
+h1 { font-size: 40px; line-height: 1.15; margin: 8px 0 18px; }
+h2 { font-size: 26px; line-height: 1.3; margin: 0 0 18px; }
+h3 { font-size: 19px; margin-bottom: 8px; }
+p { margin: 0 0 16px; }
+.eyebrow, .metadata { font-size: 14px; color: #575f65; }
+.eyebrow { margin-bottom: 8px; }
+.lead { font-size: 21px; max-width: 760px; }
+.band { background: #f3f7f7; border-top: 1px solid #dce4e4; border-bottom: 1px solid #dce4e4; }
+.person { font-size: 22px; font-weight: 650; }
+.person span { font-size: 16px; color: #575f65; font-weight: 400; }
+dl { display: grid; grid-template-columns: 190px 1fr; gap: 12px 24px; margin: 22px 0 0; }
+dt { font-weight: 650; }
+dd { margin: 0; }
+.links { display: flex; flex-wrap: wrap; gap: 20px; }
+.notice { border-bottom: 1px solid #dce4e4; }
+footer { font-size: 14px; color: #575f65; }
+.policy { max-width: 880px; }
+.policy h1 { font-size: 32px; }
+.policy h2 { margin-top: 36px; }
+.policy h3 { margin-top: 24px; }
+.policy li { margin: 8px 0; }
+code, a, dd { overflow-wrap: anywhere; }
+code { font-size: 14px; }
+@media (max-width: 640px) {
+  .navigation { flex-direction: column; align-items: flex-start; gap: 14px; }
+  .content, .navigation { padding-left: 20px; padding-right: 20px; }
+  .artwork { height: auto; aspect-ratio: 1024 / 500; }
+  h1 { font-size: 34px; }
+  .policy h1 { font-size: 28px; }
+  h2 { font-size: 24px; }
+  .lead { font-size: 19px; }
+  dl { grid-template-columns: 1fr; gap: 4px; }
+  dd { margin-bottom: 12px; }
+  .person span { display: block; }
+}
